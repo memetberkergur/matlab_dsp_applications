@@ -1,5 +1,5 @@
 % Sinyal parametreleri
-Fs = 100; % Örnekleme frekansı (Hz)
+Fs = 250; % Örnekleme frekansı (Hz)
 duration = 10; % Sinyal süresi (saniye)
 f1 = 10; % Temel frekans (Hz)
 A = 1; % Genlik
